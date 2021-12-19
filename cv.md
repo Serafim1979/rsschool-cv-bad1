@@ -2,6 +2,7 @@
 
 ## Junior Frontend Developer
 ***
+
 ## Contacts
 
 Location: Moscow, Russia
