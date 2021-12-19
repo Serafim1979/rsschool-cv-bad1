@@ -10,7 +10,7 @@ Phone: +7 925 482 65 87
 
 E-mail: korolkov.ivan@mail.ru
 
-Telegram: @Seraim1979
+Telegram: @Bystander1979
 
 ## About Me
 
@@ -45,5 +45,13 @@ int square_sum(const std::vector<int>& numbers)
     return res;
 }
 ```
+
+## Education
+* Volgograd College of Management and New Technologies named after Yuri Gagarin
+* First year National Research University "MEI"
+
+## English
+
+A1 (I practice Duolingo every day)
 
 
