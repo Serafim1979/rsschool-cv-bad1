@@ -21,4 +21,29 @@ I have little experience in website layout, writing console applications in C an
 Basic knowledge of SQL. In the process of work, I am ready to constantly increase my level of knowledge,
 improve my professional qualities and skills.
 
+## Skills
+
+* C++ Basics
+* HTML5, CSS3
+* JavaScript Basics
+* Git
+* VS Code
+
+## Code example
+
+Complete the square sum function so that it squares each number passed into it and then sums the results together.
+
+``` c++
+#include <vector>
+
+int square_sum(const std::vector<int>& numbers)
+{
+  int res = 0;
+    for(size_t i = 0; i < numbers.size(); ++i){
+      res +=  numbers[i] * numbers[i] ;
+    }
+    return res;
+}
+```
+
 
