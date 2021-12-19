@@ -1,7 +1,9 @@
 # Ivan Korolkov
 
 ## Junior Frontend Developer
-***
+
+
+
 
 ## Contacts  
 
@@ -14,7 +16,9 @@ Phone: +7 925 482 65 87
 E-mail: korolkov.ivan@mail.ru
 
 Telegram: @Bystander1979
-***
+
+
+
 ## About Me  
 
 
@@ -28,7 +32,9 @@ Basic knowledge of SQL.
 
 In the process of work, I am ready to constantly increase my level of knowledge,
 improve my professional qualities and skills.
-***
+
+
+
 ## Skills
 
 
@@ -37,7 +43,9 @@ improve my professional qualities and skills.
 * JavaScript Basics
 * Git
 * VS Code
-***
+
+
+
 ## Code example
 
 
@@ -55,13 +63,16 @@ int square_sum(const std::vector<int>& numbers)
     return res;
 }
 ```
-***
+
+
 ## Education
 
 
 * Volgograd College of Management and New Technologies named after Yuri Gagarin
 * First year National Research University "MEI"
-***
+
+
+
 ## English
 
 
