@@ -3,9 +3,7 @@
 ## Junior Frontend Developer
 ***
 
-## Contacts
-
-
+## Contacts  
 Location: Moscow, Russia
 
 Phone: +7 925 482 65 87
@@ -14,7 +12,7 @@ E-mail: korolkov.ivan@mail.ru
 
 Telegram: @Bystander1979
 ***
-## About Me
+## About Me  
 
 
 A few years ago, I decided to change the direction of my work.
