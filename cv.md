@@ -63,6 +63,7 @@ int square_sum(const std::vector<int>& numbers)
 ## Education
 
 
+
 * Volgograd College of Management and New Technologies named after Yuri Gagarin
 * First year National Research University "MEI"
 
