@@ -5,6 +5,7 @@
 
 ## Contacts
 
+
 Location: Moscow, Russia
 
 Phone: +7 925 482 65 87
@@ -15,6 +16,7 @@ Telegram: @Bystander1979
 ***
 ## About Me
 
+
 A few years ago, I decided to change the direction of my work.
 He graduated from college with a degree in Programming in Computer Systems. At the moment I work as a PC operator and am
 studying in the first year of the Federal State Educational Institution of Higher Education "NRU "MEI" in the specialty "Software development Technology".
@@ -24,6 +26,7 @@ improve my professional qualities and skills.
 ***
 ## Skills
 
+
 * C++ Basics
 * HTML5, CSS3
 * JavaScript Basics
@@ -31,6 +34,7 @@ improve my professional qualities and skills.
 * VS Code
 ***
 ## Code example
+
 
 Complete the square sum function so that it squares each number passed into it and then sums the results together.
 
@@ -48,10 +52,14 @@ int square_sum(const std::vector<int>& numbers)
 ```
 ***
 ## Education
+
+
 * Volgograd College of Management and New Technologies named after Yuri Gagarin
 * First year National Research University "MEI"
 ***
 ## English
+
+
 
 A1 (I practice Duolingo every day)
 
